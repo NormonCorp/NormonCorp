@@ -1,4 +1,4 @@
-# Dorje Khampa Herrezuelo Blasco
+# Dorjee Khampa Herrezuelo Blasco
 
 Videogame Development student focused on systems programming, game engines, and secure backend architectures for videogames.
 
